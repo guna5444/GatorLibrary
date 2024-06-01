@@ -1,1 +1,2 @@
 # GatorLibrary
+GatorLibrary, a fictitious library, requires a complex software solution to manage its vast book collection, users, and borrowing operations. The proposed system makes use of a Red-Black tree data structure for efficient book management and a Binary Min-heap to handle book reservations when a book is not readily accessible for borrowing. The project's goal is to offer a comprehensive solution that fits GatorLibrary's particular demands.
